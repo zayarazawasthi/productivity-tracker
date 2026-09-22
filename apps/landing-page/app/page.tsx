@@ -6,6 +6,6 @@ import styles from "./page.module.css";
 
 export default function Home() {
   return (
-    <div className="h-screen flex justify-center items-center">Hello world from docs Homepage</div>
+    <div className="h-screen flex justify-center items-center">Hello world from landing page  Homepage</div>
   );
 }
